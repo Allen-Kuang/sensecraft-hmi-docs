@@ -1,0 +1,6 @@
+# Cloudflare Pages redirects configuration
+# Handle client-side routing for Astro
+/*    /index.html   200
+
+# Redirect old paths if needed
+# /old-path    /new-path    301

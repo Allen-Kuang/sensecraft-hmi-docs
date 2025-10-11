@@ -1,0 +1,51 @@
+name: Build Check
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-check:
+    runs-on: ubuntu-latest
+    name: Build Check
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Build check
+        run: npm run build
+        
+      - name: Check build output
+        run: |
+          if [ ! -d "dist" ]; then
+            echo "❌ Build failed: dist directory not found"
+            exit 1
+          fi
+          
+          if [ ! -f "dist/index.html" ] && [ ! -f "dist/en/index.html" ]; then
+            echo "❌ Build failed: No index.html found"
+            exit 1
+          fi
+          
+          echo "✅ Build successful"
+          echo "📁 Build output:"
+          ls -la dist/
+          
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-output
+          path: dist/
+          retention-days: 7

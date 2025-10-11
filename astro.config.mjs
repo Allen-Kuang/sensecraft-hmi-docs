@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	output: 'server',
+	output: 'static',
 	site: 'https://docs.sensecraft-hmi.com',
 	integrations: [
 		starlight({
