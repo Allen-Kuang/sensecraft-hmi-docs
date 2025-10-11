@@ -8,8 +8,8 @@ export default defineConfig({
 	site: 'https://sensecraft-hmi-docs.seeed.cc',
 	integrations: [
 		starlight({
-			title: 'SenseCraft HMI for E-Paper',
-			description: 'Official documentation for SenseCraft HMI - No-code UI builder for e-paper/e-ink displays. Design interfaces for reTerminal E series with drag-and-drop simplicity.',
+			title: 'SenseCraft HMI for E-Paper | ESP32 Display by Seeed Studio',
+			description: 'Build e-paper/e-ink displays with ESP32-S3. No-code HMI platform by Seeed Studio for reTerminal E. Home Assistant compatible. Open-source TRMNL alternative.',
 			favicon: '/favicon.png',
 			social: [
 				{
@@ -68,7 +68,7 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: {
 						name: 'keywords',
-						content: 'e-paper, e-ink, HMI, reTerminal E, ESP32-S3, no-code, UI builder, electronic paper display, low power display, IoT dashboard',
+						content: 'Seeed Studio, e-paper, e-ink, ESP32, ESP32-S3, Home Assistant, TRMNL alternative, HMI, reTerminal E, no-code, UI builder, electronic paper display, IoT dashboard, Seeed e-paper, smart home display',
 					},
 				},
 				{
@@ -95,8 +95,10 @@ export default defineConfig({
 						'@type': 'SoftwareApplication',
 						'name': 'SenseCraft HMI',
 						'applicationCategory': 'DeveloperApplication',
-						'operatingSystem': 'Web',
-						'description': 'No-code UI builder for e-paper and e-ink displays',
+						'operatingSystem': 'ESP32-S3',
+						'description': 'No-code UI builder for e-paper displays. Build interfaces for Seeed reTerminal E, compatible with Home Assistant. Open-source TRMNL alternative.',
+						'keywords': 'ESP32, ESP32-S3, e-paper, e-ink, Home Assistant, TRMNL, Seeed Studio',
+						'softwareRequirements': 'ESP32-S3 microcontroller, E-paper display',
 						'offers': {
 							'@type': 'Offer',
 							'price': '0',
@@ -107,6 +109,14 @@ export default defineConfig({
 							'name': 'Seeed Studio',
 							'url': 'https://www.seeedstudio.com',
 						},
+						'featureList': [
+							'Drag-and-drop UI designer',
+							'ESP32-S3 optimized',
+							'Home Assistant integration',
+							'Low power consumption',
+							'Open-source alternative to TRMNL',
+							'7.5" and 7.3" e-paper support'
+						],
 					}),
 				},
 			],
