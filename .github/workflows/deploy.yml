@@ -36,6 +36,7 @@ jobs:
           projectName: sensecraft-hmi-docs
           directory: dist
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          wranglerVersion: '3'
           
       - name: Deploy to Cloudflare Pages (Preview)
         if: github.event_name == 'pull_request'
@@ -47,3 +48,4 @@ jobs:
           directory: dist
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
           preview: true
+          wranglerVersion: '3'
