@@ -16,9 +16,7 @@ This tutorial will guide you through using the AI Generation capabilities in bot
 - Refine and adjust AI-generated content through conversation
 - Deploy your designs directly to your device with one click
 
-This article will use the reTerminal E1002 as an example to explain how to use this feature on the SenseCraft HMI platform.
-
- [reTerminal E1002](https://wiki.seeedstudio.com/getting_started_with_reterminal_e1002/)
+This article will use the [reTerminal E1002]((https://wiki.seeedstudio.com/getting_started_with_reterminal_e1002/)) as an example to explain how to use this feature on the SenseCraft HMI platform.
 
 ## Getting Started
 
@@ -35,12 +33,7 @@ Let's explore how to use each of these features effectively.
 
 - Open the SenseCraft platform
 
-    <div class="get_one_now_container" style={{textAlign: 'center'}}>
-        <a class="get_one_now_item" href="https://sensecraft.seeed.cc/hmi" target="_blank" rel="noopener noreferrer">
-                <strong><span><font color={'FFFFFF'} size={"4"}> SenseCraft HMI 🖱️</font></span></strong>
-        </a>
-    </div>
-- Connect your device or select the paired device to use
+    [SenseCraft HMI](https://sensecraft.seeed.cc/hmi)
 
 <div style={{textAlign:'center'}}><img src="https://files.seeedstudio.com/wiki/reterminal_e10xx/img/ai_generate_1.png" style={{width:800, height:'auto'}}/></div>
 
