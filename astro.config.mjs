@@ -51,12 +51,12 @@ export default defineConfig({
 							link: '/guides/sensecraft_hmi_ai_generator/',
 						},
 						{
-							label: 'Canvas Function',
-							link: '/guides/sensecraft_hmi_canvas/',
-						},
-						{
 							label: 'Gallery Function',
 							link: '/guides/sensecraft_hmi_gallery/',
+						},
+						{
+							label: 'Canvas Function',
+							link: '/guides/sensecraft_hmi_canvas/',
 						},
 						{
 							label: 'RSS Function',
@@ -65,6 +65,42 @@ export default defineConfig({
 						{
 							label: 'Web Function',
 							link: '/guides/sensecraft_hmi_web/',
+						},
+					],
+				},
+				{
+					label: 'Video Guide',
+					items: [
+						{
+							label: 'Video Guide',
+							link: '/video-guide/',
+						},
+					],
+				},
+				{
+					label: 'Supported Hardware',
+					items: [
+						{
+							label: 'Supported Hardware',
+							link: '/supported-hardware/',
+						},
+					],
+				},
+				{
+					label: 'Pricing',
+					items: [
+						{
+							label: 'Pricing',
+							link: '/pricing/',
+						},
+					],
+				},
+				{
+					label: 'Release Notes',
+					items: [
+						{
+							label: 'Release Notes',
+							link: '/release-notes/',
 						},
 					],
 				},

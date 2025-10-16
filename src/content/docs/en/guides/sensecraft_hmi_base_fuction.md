@@ -194,7 +194,7 @@ Step 1. Click on the "Stock Dashboard" template in the Templates section
 
 Step 2. In the "Configure Template: Stock Dashboard" dialog that appears:
 
-   - Enter your [Twelve Data API Key](#getting-a-twelve-data-api-key) in the field provided (masked for security)
+   - Enter your [Twelve Data API Key](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft_hmi_canvas/#getting-a-twelve-data-api-key) in the field provided (masked for security)
 
 Step 3. The template provides four default company stocks. If you wish to use stocks from other companies for display, you can modify them yourself after applying the template.
 
@@ -218,6 +218,8 @@ Step 6. Review the preview and note:
 
 Step 7. Click "Apply to Canvas" to add the template to your workspace
 
+<div style={{textAlign:'center'}}><img src="https://files.seeedstudio.com/wiki/reterminal_e10xx/sensecraft_hmi/canvas_50.png" style={{width:400, height:'auto'}}/></div>
+
 :::note
 - The Stock Dashboard template requires internet access on your device to fetch real-time market data.
 
@@ -236,7 +238,7 @@ Step 1. Click on the "YouTube Channel Stats" template in the Templates section
 
 Step 2. In the "Configure Template: YouTube Channel Stats" dialog that appears:
 
-   - Enter your [YouTube Data API Key](#getting-a-youtube-data-api-key) (masked for security)
+   - Enter your [YouTube Data API Key](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft_hmi_canvas/#getting-a-youtube-data-api-key) (masked for security)
 
    - Enter a YouTube Channel Identifier in one of the supported formats:
 
