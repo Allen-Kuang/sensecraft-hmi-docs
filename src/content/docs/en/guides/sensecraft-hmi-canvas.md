@@ -645,7 +645,7 @@ Step 4. Customize the generated layout as needed
 This feature is excellent for quickly creating layouts without starting from scratch.
 
 :::tip
-For detailed instructions on using this section, please refer to **[Using AI Generation in SenseCraft HMI](https://wiki.seeedstudio.com/sensecraft_hmi_ai_generation/)**.
+For detailed instructions on using this section, please refer to **[Using AI Generation in SenseCraft HMI](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft-hmi-ai-generator/)**.
 :::
 
 ## Deploying to Your Device
