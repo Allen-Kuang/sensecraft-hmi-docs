@@ -730,8 +730,4 @@ The Canvas function in SenseCraft HMI provides a powerful platform for creating 
 
 Whether you're building a weather station, device monitor, information display, or control panel, Canvas gives you the tools to bring your vision to life. The intuitive drag-and-drop interface combined with advanced features like dynamic data binding and debugging tools makes it accessible to beginners while still offering the depth that experienced users need.
 
-## Resources
-
-- [SenseCraft HMI Platform](https://sensecraft.seeed.cc/hmi)
-- [Compatible Devices - reTerminal E Series](https://wiki.seeedstudio.com/reterminal_e10xx_main_page/)
 

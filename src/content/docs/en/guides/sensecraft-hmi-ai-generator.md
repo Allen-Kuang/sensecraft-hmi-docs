@@ -229,7 +229,4 @@ Create stunning interfaces in minutes with SenseCraft HMI’s AI Generation. Pow
 
 From images in Gallery to full interfaces in Canvas, AI Generation brings your imagination to life with speed and ease.
 
-## Resources
 
-- [SenseCraft HMI Platform](https://sensecraft.seeed.cc/hmi)
-- [Compatible Devices - reTerminal E Series](https://wiki.seeedstudio.com/reterminal_e10xx_main_page/)

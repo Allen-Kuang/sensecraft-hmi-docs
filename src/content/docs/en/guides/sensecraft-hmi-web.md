@@ -357,8 +357,3 @@ To keep your web displays running smoothly:
 The Web function in SenseCraft HMI provides a flexible way to display web content on your screen-based devices. By following this guide, you can configure, preview, and deploy web pages to create information displays, dashboards, or reference screens tailored to your needs.
 
 Remember that not all web content is suited for small displays or embedded devices. For the best experience, consider using mobile-responsive websites or creating custom web pages specifically designed for your device's dimensions and capabilities.
-
-## Resources
-
-- [SenseCraft HMI Platform](https://sensecraft.seeed.cc/hmi)
-- [Compatible Devices - reTerminal E Series](https://wiki.seeedstudio.com/reterminal_e10xx_main_page/)

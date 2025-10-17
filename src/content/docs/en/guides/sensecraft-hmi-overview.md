@@ -41,27 +41,72 @@ To begin using SenseCraft HMI:
 
 6. **Deploy to Device**: Send your design to your connected device with one click
 
+## Getting Started Guides
+
+### [Getting Started](https://sensecraft-hmi-docs.seeed.cc/en/guides/getting-started/)
+
+Learn how to create your SenseCraft HMI account and access the platform.
+
+### [Firmware Update and Flashing](https://sensecraft-hmi-docs.seeed.cc/en/guides/firmware-update/)
+
+Complete guide for updating and flashing firmware on your e-paper display devices.
+
+### [Workspace Interface Guide](https://sensecraft-hmi-docs.seeed.cc/en/guides/workspace-interface/)
+
+Comprehensive guide to understanding and using the core toolbars, device status bar, and page management features.
+
+### [Advanced Tools](https://sensecraft-hmi-docs.seeed.cc/en/guides/advanced-tools/)
+
+Learn how to use the Firmware Flasher and Image Dithering tools to optimize your device and content.
+
+### [Deploying to Your Device](https://sensecraft-hmi-docs.seeed.cc/en/guides/deploying-to-device/)
+
+Step-by-step guide for deploying your SenseCraft HMI projects to your e-paper display devices.
+
 ## Function Documentation
 
 SenseCraft HMI offers several specialized functions, each designed for different display needs:
 
-### [AI Generation Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft_hmi_ai_generator/)
+### [AI Generation Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft-hmi-ai-generator/)
 
 Create beautiful layouts and images by simply describing what you want in natural language, eliminating the need for design skills.
 
-### [Gallery Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft_hmi_gallery/)
+### [Gallery Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft-hmi-gallery/)
 
 Transform your device into a digital photo frame with customizable image displays, transitions, and visual effects.
 
-### [Canvas Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft_hmi_canvas/)
+### [Canvas Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft-hmi-canvas/)
 
 Design custom interfaces and dashboards combining static elements with dynamic data from various sources.
 
-### [RSS Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft_hmi_rss/)
+### [RSS Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft-hmi-rss/)
 
 Display automatically updating content from news outlets, blogs, and other information sources using RSS feeds.
 
-### [Web Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft_hmi_web/)
+### [Web Function](https://sensecraft-hmi-docs.seeed.cc/en/guides/sensecraft-hmi-web/)
 
 Show web content directly on your device, perfect for dashboards, documentation, or monitoring systems.
+
+## Additional Resources
+
+### [Supported Hardware](https://sensecraft-hmi-docs.seeed.cc/en/supported-hardware/)
+
+Complete list of supported devices and hardware requirements.
+
+### [Video Guide](https://sensecraft-hmi-docs.seeed.cc/en/video-guide/)
+
+Step-by-step video tutorials for SenseCraft HMI platform.
+
+### [Pricing](https://sensecraft-hmi-docs.seeed.cc/en/pricing/)
+
+Current pricing information and plans.
+
+### [Release Notes](https://sensecraft-hmi-docs.seeed.cc/en/release-notes/)
+
+Latest updates and version history of the SenseCraft HMI platform.
+
+## Resources
+
+- [SenseCraft HMI Platform](https://sensecraft.seeed.cc/hmi)
+- [Compatible Devices - reTerminal E Series](https://wiki.seeedstudio.com/reterminal_e10xx_main_page/)
 

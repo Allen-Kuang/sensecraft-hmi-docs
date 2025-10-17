@@ -41,30 +41,19 @@ The reTerminal E1002 features a vibrant 7.3-inch six-color ePaper display with A
 - **Flexible Hardware & Software Customization**
 
 ### ePaper DIY Kits
-- **EE04 DIY Kit** - 7.3" and 7.5" e-paper displays
-- **TRMNL 7.5" (OG) DIY Kit** - Original TRMNL compatible kit
 
-## Display Specifications
-
-### Supported Resolutions
-- **800x480** - Standard resolution for 7.5" displays
-- **800x600** - High resolution option
-- **640x384** - Compact display format
-
-### Color Support
-- **Monochrome** - Black and white displays
-- **3-Color** - Black, white, and red displays
-- **7-Color** - Full color e-paper displays (coming soon)
+- **[ePaper DIY Kit - EE04](https://wiki.seeedstudio.com/epaper_ee04/)** - The EE04 expansion board and screen support various sizes and displays.
+- **[TRMNL 7.5" (OG) DIY Kit](https://wiki.seeedstudio.com/trmnl_7inch5_diy_kit_main_page/)** - Original TRMNL compatible kit
 
 ## Compatibility Matrix
 
 | Device | Display Size | Resolution | Color | Status |
 |--------|-------------|------------|-------|--------|
 | reTerminal E1001 | 7.5" | 800x480 | B/W | ✅ Supported |
-| reTerminal E1002 | 7.5" | 800x480 | B/W | ✅ Supported |
-| EE04 7.3" | 7.3" | 800x480 | B/W | ✅ Supported |
-| EE04 7.5" | 7.5" | 800x480 | B/W | ✅ Supported |
-| TRMNL 7.5" OG | 7.5" | 800x480 | B/W | ✅ Supported |
+| reTerminal E1002 | 7.3" | 800x480 | Full Color | ✅ Supported |
+| ePaper DIY Kit - EE04 with 7.3" ePaper display  | 7.3" | 800x480 | Full Color | ✅ Supported |
+| ePaper DIY Kit - EE04 with 7.5" ePaper display | 7.5" | 800x480 | B/W | ✅ Supported |
+| TRMNL 7.5" OG Kit | 7.5" | 800x480 | B/W | ✅ Supported |
 
 ---
 

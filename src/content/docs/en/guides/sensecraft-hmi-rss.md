@@ -251,9 +251,4 @@ The RSS function in SenseCraft HMI provides a powerful way to turn your screen-b
 
 Remember that the quality of your RSS display depends largely on the feeds you choose. Experiment with different feeds, update intervals, and display settings to create the perfect information display for your needs.
 
-## Resources
-
-- [SenseCraft HMI Platform](https://sensecraft.seeed.cc/hmi)
-- [Compatible Devices - reTerminal E Series](https://wiki.seeedstudio.com/reterminal_e10xx_main_page/)
-
 

@@ -40,31 +40,47 @@ export default defineConfig({
 					items: [
 						{
 							label: 'SenseCraft HMI Overview',
-							link: '/guides/sensecraft_hmi_overview/',
+							link: '/guides/sensecraft-hmi-overview/',
 						},
 						{
-							label: 'Basic Function Usage',
-							link: '/guides/sensecraft_hmi_base_fuction/',
+							label: 'Getting Started',
+							link: '/guides/getting-started/',
 						},
-						{
-							label: 'AI Generation Function',
-							link: '/guides/sensecraft_hmi_ai_generator/',
-						},
+					{
+						label: 'Firmware Update and Flashing',
+						link: '/guides/firmware-update/',
+					},
+					{
+						label: 'Workspace Interface & Templates',
+						link: '/guides/workspace-interface/',
+					},
+					{
+						label: 'Advanced Tools',
+						link: '/guides/advanced-tools/',
+					},
+					{
+						label: 'AI Generation Function',
+						link: '/guides/sensecraft-hmi-ai-generator/',
+					},
 						{
 							label: 'Gallery Function',
-							link: '/guides/sensecraft_hmi_gallery/',
+							link: '/guides/sensecraft-hmi-gallery/',
 						},
 						{
 							label: 'Canvas Function',
-							link: '/guides/sensecraft_hmi_canvas/',
+							link: '/guides/sensecraft-hmi-canvas/',
 						},
 						{
 							label: 'RSS Function',
-							link: '/guides/sensecraft_hmi_rss/',
+							link: '/guides/sensecraft-hmi-rss/',
 						},
 						{
 							label: 'Web Function',
-							link: '/guides/sensecraft_hmi_web/',
+							link: '/guides/sensecraft-hmi-web/',
+						},
+						{
+							label: 'Deploying to Your Device',
+							link: '/guides/deploying-to-device/',
 						},
 					],
 				},

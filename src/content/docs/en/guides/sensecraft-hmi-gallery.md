@@ -271,7 +271,3 @@ The Gallery function in SenseCraft HMI provides an easy way to transform your sc
 
 Remember that for storing more than 3 images, you'll need a properly formatted MicroSD card inserted in your device. With the right setup, you can create beautiful slideshows and displays that showcase your favorite images on your Seeed Studio display devices.
 
-## Resources
-
-- [SenseCraft HMI Platform](https://sensecraft.seeed.cc/hmi)
-- [Compatible Devices - reTerminal E Series](https://wiki.seeedstudio.com/reterminal_e10xx_main_page/)

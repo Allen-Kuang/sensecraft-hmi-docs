@@ -3,8 +3,6 @@ title: Release Notes
 description: SenseCraft HMI platform iteration records and version history
 ---
 
-# Release Notes
-
 This page contains the iteration records and version history of the SenseCraft HMI platform.
 
 ## v1.0 - 2025-xx-xx
