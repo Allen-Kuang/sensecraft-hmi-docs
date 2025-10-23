@@ -36,6 +36,10 @@ export default defineConfig({
 					label: '日本語',
 					lang: 'ja',
 				},
+				es: {
+					label: 'Español',
+					lang: 'es',
+				},
 			},
 		lastUpdated: true,
 		sidebar: [
@@ -44,6 +48,7 @@ export default defineConfig({
 				translations: {
 					'zh-CN': '指南',
 					'ja': 'ガイド',
+					'es': 'Guías',
 				},
 				items: [
 					{
@@ -52,6 +57,7 @@ export default defineConfig({
 					translations: {
 						'zh-CN': '快速入门',
 						'ja': 'はじめに',
+						'es': 'Primeros pasos',
 					},
 					},
 					{
@@ -60,6 +66,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '固件更新和刷写',
 							'ja': 'ファームウェアアップデートとフラッシュ',
+							'es': 'Actualización y flasheo de firmware',
 						},
 					},
 					{
@@ -68,6 +75,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '工作区界面和模板',
 							'ja': 'ワークスペースインターフェースとテンプレート',
+							'es': 'Interfaz del espacio de trabajo y plantillas',
 						},
 					},
 					{
@@ -76,6 +84,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '高级工具',
 							'ja': '高度なツール',
+							'es': 'Herramientas avanzadas',
 						},
 					},
 					{
@@ -84,6 +93,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': 'AI 生成功能',
 							'ja': 'AI 生成機能',
+							'es': 'Función de generación con IA',
 						},
 					},
 					{
@@ -92,6 +102,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '图库功能',
 							'ja': 'ギャラリー機能',
+							'es': 'Función de galería',
 						},
 					},
 					{
@@ -100,6 +111,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': 'UI 设计功能',
 							'ja': 'UI 設計機能',
+							'es': 'Función Canvas',
 						},
 					},
 					{
@@ -108,6 +120,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': 'RSS 功能',
 							'ja': 'RSS 機能',
+							'es': 'Función RSS',
 						},
 					},
 					{
@@ -116,6 +129,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '网页功能',
 							'ja': 'Web 機能',
+							'es': 'Función Web',
 						},
 					},
 					{
@@ -124,6 +138,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '部署到设备',
 							'ja': 'デバイスへのデプロイ',
+							'es': 'Implementación en tu dispositivo',
 						},
 					},
 				],
@@ -133,6 +148,7 @@ export default defineConfig({
 				translations: {
 					'zh-CN': '视频指南',
 					'ja': 'ビデオガイド',
+					'es': 'Guía en video',
 				},
 				items: [
 					{
@@ -141,6 +157,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '视频指南',
 							'ja': 'ビデオガイド',
+							'es': 'Guía en video',
 						},
 					},
 				],
@@ -150,6 +167,7 @@ export default defineConfig({
 				translations: {
 					'zh-CN': '支持的硬件',
 					'ja': 'サポートされているハードウェア',
+					'es': 'Hardware compatible',
 				},
 				items: [
 					{
@@ -158,6 +176,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '支持的硬件',
 							'ja': 'サポートされているハードウェア',
+							'es': 'Hardware compatible',
 						},
 					},
 				],
@@ -167,6 +186,7 @@ export default defineConfig({
 				translations: {
 					'zh-CN': '价格',
 					'ja': '価格',
+					'es': 'Precios',
 				},
 				items: [
 					{
@@ -175,6 +195,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '价格',
 							'ja': '価格',
+							'es': 'Precios',
 						},
 					},
 				],
@@ -184,6 +205,7 @@ export default defineConfig({
 				translations: {
 					'zh-CN': '发布说明',
 					'ja': 'リリースノート',
+					'es': 'Notas de versión',
 				},
 				items: [
 					{
@@ -192,6 +214,7 @@ export default defineConfig({
 						translations: {
 							'zh-CN': '发布说明',
 							'ja': 'リリースノート',
+							'es': 'Notas de versión',
 						},
 					},
 				],
