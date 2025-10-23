@@ -309,7 +309,7 @@ Want to add a new language? [Open an issue](../../issues) to discuss!
 - 📚 [Astro Documentation](https://docs.astro.build)
 - ⭐ [Starlight Theme](https://starlight.astro.build)
 - ✍️ [Markdown Guide](https://www.markdownguide.org)
-- 🎨 [SenseCraft HMI Platform](https://sensecraft.seeed.cc)
+- 🎨 [SenseCraft HMI Platform](https://sensecraft.seeed.cc/hmi)
 - 🏪 [Seeed Studio](https://www.seeedstudio.com)
 
 ---
