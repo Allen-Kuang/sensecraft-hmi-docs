@@ -61,25 +61,70 @@ export default defineConfig({
 					},
 					},
 					{
-						label: 'Firmware Update and Flashing',
-						link: '/guides/firmware-update/',
+						label: 'Workspace',
 						translations: {
-							'zh-CN': '固件更新和刷写',
-							'ja': 'ファームウェアアップデートとフラッシュ',
-							'es': 'Actualización y flasheo de firmware',
+							'zh-CN': '工作区',
+							'ja': 'ワークスペース',
+							'es': 'Espacio de trabajo',
 						},
+						// 使用 items 数组让它在侧边栏变成一个“文件夹”
+						items: [
+							// {
+							// 	label: 'Introduction', // 这是 index.md 在菜单里显示的名称
+							// 	link: '/guides/workspace/', // 对应 guides/Workspace/index.md
+							// 	translations: {
+							// 		'zh-CN': '简介',
+							// 	},
+							// },
+							{
+								label: 'Data Advanced Usage',
+								link: '/guides/workspace/data-usage', // 对应 workspace/data-advanced-usage.md
+								translations: {
+									'zh-CN': '数据高级用法',
+									'ja': 'データの高度な使用法',
+									'es': 'Uso avanzado de datos',
+								},
+							},
+							{
+								label: 'RSS Advanced Usage',
+								link: '/guides/workspace/sensecraft-hmi-rss',
+								translations: {
+									'zh-CN': 'RSS 功能',
+									'ja': 'RSS 機能',
+									'es': 'Función RSS',
+								},
+							},
+							{
+								label: 'Web Content Advanced Usage',
+								link: '/guides/workspace/sensecraft-hmi-web',
+								translations: {
+									'zh-CN': '网页功能',
+									'ja': 'Web 機能',
+									'es': 'Función Web',
+								},
+							},
+						],
 					},
+					// {
+					// 	label: 'Firmware Update and Flashing',
+					// 	link: '/guides/firmware-update/',
+					// 	translations: {
+					// 		'zh-CN': '固件更新和刷写',
+					// 		'ja': 'ファームウェアアップデートとフラッシュ',
+					// 		'es': 'Actualización y flasheo de firmware',
+					// 	},
+					// },
+					// {
+					// 	label: 'Workspace Interface & Templates',
+					// 	link: '/guides/workspace-interface/',
+					// 	translations: {
+					// 		'zh-CN': '工作区界面和模板',
+					// 		'ja': 'ワークスペースインターフェースとテンプレート',
+					// 		'es': 'Interfaz del espacio de trabajo y plantillas',
+					// 	},
+					// },
 					{
-						label: 'Workspace Interface & Templates',
-						link: '/guides/workspace-interface/',
-						translations: {
-							'zh-CN': '工作区界面和模板',
-							'ja': 'ワークスペースインターフェースとテンプレート',
-							'es': 'Interfaz del espacio de trabajo y plantillas',
-						},
-					},
-					{
-						label: 'Advanced Tools',
+						label: 'Tools',
 						link: '/guides/advanced-tools/',
 						translations: {
 							'zh-CN': '高级工具',
@@ -87,60 +132,42 @@ export default defineConfig({
 							'es': 'Herramientas avanzadas',
 						},
 					},
-					{
-						label: 'AI Generation Function',
-						link: '/guides/sensecraft-hmi-ai-generator/',
-						translations: {
-							'zh-CN': 'AI 生成功能',
-							'ja': 'AI 生成機能',
-							'es': 'Función de generación con IA',
-						},
-					},
-					{
-						label: 'Gallery Function',
-						link: '/guides/sensecraft-hmi-gallery/',
-						translations: {
-							'zh-CN': '图库功能',
-							'ja': 'ギャラリー機能',
-							'es': 'Función de galería',
-						},
-					},
-					{
-						label: 'Canvas Function',
-						link: '/guides/sensecraft-hmi-canvas/',
-						translations: {
-							'zh-CN': 'UI 设计功能',
-							'ja': 'UI 設計機能',
-							'es': 'Función Canvas',
-						},
-					},
-					{
-						label: 'RSS Function',
-						link: '/guides/sensecraft-hmi-rss/',
-						translations: {
-							'zh-CN': 'RSS 功能',
-							'ja': 'RSS 機能',
-							'es': 'Función RSS',
-						},
-					},
-					{
-						label: 'Web Function',
-						link: '/guides/sensecraft-hmi-web/',
-						translations: {
-							'zh-CN': '网页功能',
-							'ja': 'Web 機能',
-							'es': 'Función Web',
-						},
-					},
-					{
-						label: 'Deploying to Your Device',
-						link: '/guides/deploying-to-device/',
-						translations: {
-							'zh-CN': '部署到设备',
-							'ja': 'デバイスへのデプロイ',
-							'es': 'Implementación en tu dispositivo',
-						},
-					},
+					// {
+					// 	label: 'AI Generation Function',
+					// 	link: '/guides/sensecraft-hmi-ai-generator/',
+					// 	translations: {
+					// 		'zh-CN': 'AI 生成功能',
+					// 		'ja': 'AI 生成機能',
+					// 		'es': 'Función de generación con IA',
+					// 	},
+					// },
+					// {
+					// 	label: 'Gallery Function',
+					// 	link: '/guides/sensecraft-hmi-gallery/',
+					// 	translations: {
+					// 		'zh-CN': '图库功能',
+					// 		'ja': 'ギャラリー機能',
+					// 		'es': 'Función de galería',
+					// 	},
+					// },
+					// {
+					// 	label: 'Canvas Function',
+					// 	link: '/guides/sensecraft-hmi-canvas/',
+					// 	translations: {
+					// 		'zh-CN': 'UI 设计功能',
+					// 		'ja': 'UI 設計機能',
+					// 		'es': 'Función Canvas',
+					// 	},
+					// },
+					// {
+					// 	label: 'Deploying to Your Device',
+					// 	link: '/guides/deploying-to-device/',
+					// 	translations: {
+					// 		'zh-CN': '部署到设备',
+					// 		'ja': 'デバイスへのデプロイ',
+					// 		'es': 'Implementación en tu dispositivo',
+					// 	},
+					// },
 				],
 			},
 			{
