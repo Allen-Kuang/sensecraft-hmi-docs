@@ -2,6 +2,51 @@
 title: Release Notes
 description: SenseCraft HMI platform iteration records and version history
 ---
+## SenseCraft HMI v1.2.6 Release Notes
+Update time: 2026.01.19
+
+**Canvas Designer Improvements**
+- Shortcuts & Right-Click Menu for faster editing:
+  - `Ctrl+C`: Copy
+  - `Ctrl+V`: Paste
+  - `Ctrl+X`: Cut
+  - `Ctrl+D`: Duplicate
+  - `Ctrl+Z`: Undo
+  - `Ctrl+B`: Toggle bold text
+  - `Ctrl+I`: Toggle italic text
+- Right-click any element to open a contextual menu (Copy, Duplicate, Layer, Group, Add to My Widgets)
+- New Basic Elements: Clock (Analog & Flip), Calendar, List, and Table
+- Enhanced Data Integration:
+  - Google Calendar (verified, multiple event types supported)
+  - Layout improvements for Todoist, Reddit, and HackerNews
+  - Updated UI design application process in the Canvas
+- Group Function Upgrade:
+  - Synchronized resizing for all components within a group
+  - Batch property editing for similar components (e.g., text color, size, weight)
+- Text Element Enhancements:
+  - Customizable background color, padding, and shadow styles
+  - Adaptive selection box and automatic line wrap during drag-and-drop
+- Canvas Zoom Optimization:
+  - Finer zoom control for detailed adjustments and improved usability
+
+**New Hardware Support**
+- reTerminal E1003 (10.3″ Monochrome),launching soon
+- reTerminal E1004 (13.3″ Spectra Full Color),launching soon
+- [EE02 Dev Kit with 13.3″ Spectra Full Color Display](https://www.seeedstudio.com/XIAO-ePaper-DIY-Kit-EE02-for-13-3-Spectratm-6-E-Ink.html)
+
+**Other Updates**
+- Restored advanced developer tools for UI config JSON import/export
+- Added Page Duplicate feature in My Pages
+  
+**Get Involved**
+Report bugs and help shape our roadmap by joining our [Discord community #sensecraft-hmi](https://discord.com/invite/Jj2CBXCjtf)!
+
+
+
+
+
+---
+
 
 ## SenseCraft HMI v1.2.0 Release Notes 
 Update time: 2025.12.25
