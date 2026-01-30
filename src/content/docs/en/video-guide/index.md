@@ -21,13 +21,31 @@ Learn the basics of the SenseCraft HMI platform and understand its core features
   ></iframe>
 </div>
 
-### First Project Setup
-Step-by-step guide to create your first dashboard project.
+### Start with HMI Platform
 
-### Device Connection
-How to connect and configure your e-paper display device.
+<video width="100%" controls>
+  <source src="https://files.seeedstudio.com/wiki/hmi/video/deploy.mp4" type="video/mp4">
+  Your browser not support HTML5 video playing
+</video>
+
+### How to refresh new HMI firmware
+
+<video width="100%" controls>
+  <source src="https://files.seeedstudio.com/wiki/hmi/video/refresh_FW.mp4" type="video/mp4">
+  Your browser not support HTML5 video playing
+</video>
+
+### How to switch network
+
+<video width="100%" controls>
+
+  <source src="https://files.seeedstudio.com/wiki/hmi/video/switch_network.mp4" type="video/mp4">
+  Your browser not support HTML5 video playing
+</video>
 
 ## Feature Tutorials
+
+Coming soon...
 
 ### Dashboard Design
 - Creating layouts with drag-and-drop interface
