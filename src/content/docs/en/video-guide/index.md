@@ -24,7 +24,9 @@ Learn the basics of the SenseCraft HMI platform and understand its core features
 ### Start with HMI Platform
 
 1.Select the template you want and it will be added in your workspace.
+
 2.Select dithering mode according to your device type.
+
 3.Save to cloud and deploy it to your device.
 
 <video width="100%" controls>
@@ -35,6 +37,7 @@ Learn the basics of the SenseCraft HMI platform and understand its core features
 ### How to refresh new HMI firmware
 
 1.Turn on the device and connect it to your computer with data USB cable.
+
 2.Select your device type and firmware version and flash it.
 
 <video width="100%" controls>
