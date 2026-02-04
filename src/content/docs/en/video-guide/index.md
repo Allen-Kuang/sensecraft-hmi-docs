@@ -23,7 +23,7 @@ Learn the basics of the SenseCraft HMI platform and understand its core features
 
 ### Start with HMI Platform
 
-1.Select the template you want and it will be added in your workspace.
+1.Select the template you want and it will be added in your workspace. You can change it as you like.
 
 2.Select dithering mode according to your device type.
 
