@@ -23,6 +23,10 @@ Learn the basics of the SenseCraft HMI platform and understand its core features
 
 ### Start with HMI Platform
 
+1.Select the template you want and it will be added in your workspace.
+2.Select dithering mode according to your device type.
+3.Save to cloud and deploy it to your device.
+
 <video width="100%" controls>
   <source src="https://files.seeedstudio.com/wiki/hmi/video/deploy.mp4" type="video/mp4">
   Your browser not support HTML5 video playing
@@ -30,12 +34,17 @@ Learn the basics of the SenseCraft HMI platform and understand its core features
 
 ### How to refresh new HMI firmware
 
+1.Turn on the device and connect it to your computer with data USB cable.
+2.Select your device type and firmware version and flash it.
+
 <video width="100%" controls>
   <source src="https://files.seeedstudio.com/wiki/hmi/video/refresh_FW.mp4" type="video/mp4">
   Your browser not support HTML5 video playing
 </video>
 
 ### How to switch network
+
+Press these two white buttons at the same time for 3 seconds and the screen will refresh.
 
 <video width="100%" controls>
 
