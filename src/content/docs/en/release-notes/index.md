@@ -2,6 +2,50 @@
 title: Release Notes
 description: SenseCraft HMI platform iteration records and version history
 ---
+## SenseCraft HMI v1.3.0 Release Notes
+Update time: 2026.01.30
+
+**🚀 Toward a UI Template Community**
+This release transforms SenseCraft HMI into a collaborative platform. Now you can publish, discover, and reuse UI templates built by the community in a more collaborative way.
+
+- **Redesigned Homepage**
+  - Featured Templates spotlight outstanding designs.
+  - Filter templates by category using the new top navigation bar.
+  - Updated Footer includes quick links to Change Logs, About, Support, and more.
+
+- **Publish Pages as Public Templates**
+  - A new “Publish” button is available on the pages.
+  - Submit your page with a picture, title, category, and description—once approved, it becomes a public template.
+  - Track submission status (Under Review, Published, or Rejected) in your User Profile Center (click the user avatar on the Side Bar to access).
+
+- **Enhanced User Profiles**
+  - Customize your public profile with an avatar, bio, and social links.
+
+- **Community Feedback & Workflow**
+  - Browse, like, and directly “Add to My Pages” any published template.
+  - Your feedback helps creators and improves the template ecosystem.
+
+
+**🐛 Bugs Fixed & Improvements**
+- 4‑Level Grayscale Support Update: Fixed for reTerminal E1001–E1004 with the new firmware V1.1.1.
+→ Update firmware directly via the Tools Bar in SenseCraft HMI.
+- Google Calendar Timezone: Resolved synchronization issues across different time zones.
+- Platform Version Visibility: Find the current version in the Release Notes icon (above Doc Center on the Side Bar) or in the Change Logs (footer).
+
+
+**🌟 Get Involved**
+- Share Your Designs: Publish your best pages as public templates and inspire the community. Outstanding templates will be featured on the homepage banner!
+- Join the Conversation: Report bugs, share feedback, and help shape our [roadmap on Discord](https://discord.com/invite/Jj2CBXCjtf 
+).
+
+
+
+
+
+
+---
+
+
 ## SenseCraft HMI v1.2.6 Release Notes
 Update time: 2026.01.19
 
